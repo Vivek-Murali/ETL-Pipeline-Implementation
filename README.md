@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="ETL Pipeline Implementation" />
+  <img src="./data/images/25346168.png" alt="ETL Pipeline Implementation" style="height:100px" />
 
   &#xa0;
 
@@ -41,6 +41,33 @@
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
 </p>
+
+<head>
+  <link rel="stylesheet" href="./data/css/style.css">
+</head>
+<!-- inspired by https://adobe.ly/3SZ9MC5 -->
+<ol>
+  <li style="--accent-color: #FF6F00">
+    <div class="icon"><i class="fa-light fa-lightbulb-exclamation-on"></i></div>
+    <div class="title">SetUp</div>
+    <div class="descr">Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.</div>
+  </li>
+  <li style="--accent-color: #008DC2">
+    <div class="icon"><i class="fa-light fa-flower-daffodil"></i></div>
+    <div class="title">Data Collection</div>
+    <div class="descr">Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.</div>
+  </li>
+  <li style="--accent-color: #0B456A">
+    <div class="icon"><i class="fa-light fa-chart-line-up"></i></div>
+    <div class="title">Transformation</div>
+    <div class="descr">Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.</div>
+  </li>
+  <li style="--accent-color: #6A829A">
+    <div class="icon"><i class="fa-light fa-chart-mixed"></i></div>
+    <div class="title">Analysis</div>
+    <div class="descr">Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.</div>
+  </li>
+</ol>
 
 <br>
 
