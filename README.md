@@ -58,7 +58,7 @@
     <div class="descr">Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.</div>
   </li>
   <li style="--accent-color: #0B456A">
-    <div class="icon"><i class="fa-light fa-chart-line-up"></i></div>
+    <div class="icon"><i class="fa-light fa fa-cog"></i></div>
     <div class="title">Transformation</div>
     <div class="descr">Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.</div>
   </li>
